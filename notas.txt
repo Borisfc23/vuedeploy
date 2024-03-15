@@ -1,0 +1,2 @@
+npm run build =>genera los archivos para subir a produccion
+1.Si no carga los recursos de tu web configura el vue.config.js, esto se da cuando subes la pagina a un subdominio
