@@ -1,3 +1,4 @@
 npm run build =>genera los archivos para subir a produccion
-1.Si no carga los recursos de tu web configura el vue.config.js, esto se da cuando subes la pagina a un subdominio
+1.Si no carga los recursos de tu web configura el vue.config.js, esto se da cuando subes la pagina a un subdominio, este problema se da cuando lo subes a un hosting 
 2.si quieres subir a netifly debes primero subir a github el proyecto, luego agregas el proyecto a netifly con github 
+3. problemas en las rutas con netifly debes de crear netlify.toml y _redirects
